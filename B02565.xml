@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of all persons comprized in the articles or capitulations of the city of Waterford, fort and castle of Bophin, and the towns of Sligo and Drogheda in the kingdom of Ireland, humbly offered to the consideration of the knights citizens and burgesses in Parliament assembled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02565</idno>
+            <idno type="STC">Wing C876</idno>
+            <idno type="STC">ESTC R225238</idno>
+            <idno type="EEBO-CITATION">52211894</idno>
+            <idno type="OCLC">ocm 52211894</idno>
+            <idno type="VID">175464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02565)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175464)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2738:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of all persons comprized in the articles or capitulations of the city of Waterford, fort and castle of Bophin, and the towns of Sligo and Drogheda in the kingdom of Ireland, humbly offered to the consideration of the knights citizens and burgesses in Parliament assembled.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Half-title on p. [2]: The case of persons comprized in the articles of Waterford, Bophin, Sligo, and Drogheda, in the kingdom of Ireland.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Confiscations --  Ireland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1775 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175464:1" rendition="simple:additions"/>
+            <head>THE CASE OF All Perſons comprized in the Articles or Capitu<g ref="char:EOLhyphen"/>lations of the City of <hi>Waterford,</hi> Fort and Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Bophin,</hi> and the Towns of <hi>Sligo</hi> and <hi>Drogheda</hi> in the Kingdom of <hi>Ireland,</hi> humbly offered to the Conſideration of the Honou<g ref="char:EOLhyphen"/>rable the Knights Citizens and Burgeſſes in Parliament aſſembled.</head>
+            <p>THe Capitulations of <hi>WATERFORD,</hi> whereby all Perſons comprized therein, are to enjoy their Eſtates, were made with, and ſigned by, his Majeſty in Perſon in the ſecond Year of his Reign, at his Royal Camp near <hi>CARRICK.</hi> And his Ma<g ref="char:EOLhyphen"/>jeſty being reſolved, that the ſaid Articles, ſo given and agreed to by himſelf, ſhould be punctually kept and performed, and all the Security poſſible given to the Perſons concerned, was graciouſly pleaſed to order that the ſaid Articles ſhould be ratified under the great Seal of <hi>ENGLAND,</hi> which was accordinly done, and all the Perſons entitled to the Benefit of the ſame, continued and protected ever ſince, in the Poſſeſſion of their Eſtates and Pro<g ref="char:EOLhyphen"/>perties.</p>
+            <p>But now ſo it is, That by a Bill depending before the Honourable the Houſe of Commons, for applying all the forfeited Eſtates and Intereſts in <hi>IRELAND,</hi> and all Grants thereof, and all the Rents and Revenues belonging to the Crown within that Kingdom, ſince the 13th Day of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> 1688, to the Uſe of the Publick, the Adjudications of thoſe comprized in the Articles of <hi>LIMERICK</hi> and <hi>GALWAY</hi> are to be comfirmed; and no mention of, nor Proviſion what<g ref="char:EOLhyphen"/>ſoever made for, the ſaid Capitulations of <hi>WATERFORD,</hi> to the great Surprize of thoſe in<g ref="char:EOLhyphen"/>cluded in the ſame; who always took themſelves to be upon as ſecure a bottom, as any other ar<g ref="char:EOLhyphen"/>ticled Men in <hi>IRELAND,</hi> and their ſaid Capitulations every way as binding, and as Authen<g ref="char:EOLhyphen"/>tick as theirs.</p>
+            <p>There is no Proviſion neither made in the ſaid Bill for the Articles of <hi>BOPHIN,</hi> which are confirmed alſo under the Great Seal of <hi>ENGLAND,</hi> nor no Saving for the Articles of <hi>SLIGO,</hi> or <hi>DROGHEDA</hi> which was the firſt Town that ſubmitted to their Majeſty upon the Se<g ref="char:EOLhyphen"/>curity of Publick Faith; both which laſt recited Articles, are by the Law of Nations, as obligatory and as binding as any of the reſt, although the Perſons concerned, confiding very much in the pub<g ref="char:EOLhyphen"/>lick Faith giving them as aforeſaid, and being for the moſt part indigent, and not in a Condition to be at the neceſſary Expence, made no Application to have their ſaid Capitulations ratified under the great Seal of <hi>ENGLAND.</hi> Which Ommiſſion in the ſaid Bill, if not remedied, or redreſſed by the Honourable the Houſe of Commons, may be of the laſt ill Conſequence to a great many Perſons, comprized in the ſaid ſeveral Articles, conſidering that there is a latitude given in the ſaid Bill, to Proſecute on ſtill for high Treaſon, any Perſon or Perſons, concerned in the late War in <hi>IRELAND,</hi> againſt the preſent Government, to which Proſecution ſeveral of the ſaid ar<g ref="char:EOLhyphen"/>ticled Men apprehend themſelves to be liable, if not protected by their ſaid Capitulations, and pro<g ref="char:EOLhyphen"/>vided for in the ſaid Bill.</p>
+            <p>
+               <hi>It is therefore humbly hoped, that the Honourable the Houſe of Commons, will take the Caſt <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Perſons concerned in the ſaid Capitulations into Conſideration, and make ſuch a Proviſion <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the ſaid Bill, as they may hereafter have the Benefit of their ſaid reſpective Articies.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:175464:2"/>
+            <p>THE CASE OF Perſons Comprized in the Ar<g ref="char:EOLhyphen"/>ticles of <hi>Waterford, Bophin, Sligo,</hi> and <hi>Drogheda,</hi> in the Kingdom of <hi>Ireland.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
